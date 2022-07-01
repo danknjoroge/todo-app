@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "z3sts7-ab79-tvf0-0ru3eo",
+      "timestamp": "2022-6-27 23:29:58",
+      "body": "Take out trash",
+      "status": "Not complete"
+    },
+    {
+      "id": "fjyaey-yznq-mg0z-gfagpz",
+      "timestamp": "2022-6-27 23:36:42",
+      "body": "Kenya One",
+      "status": "Not complete"
+    },
+    {
+      "body": "Do the axios assignmentsj",
+      "timestamp": "2022-7-1 15:34:0",
+      "status": "Not complete",
+      "id": "m80zzp-qyi1-9b0j-ngnnbw"
+    },
+    {
+      "id": "qiup5i-p60k-w9dx-uce4oj",
+      "timestamp": "2022-7-1 15:32:24",
+      "body": "Apply for internships",
+      "status": "Not complete"
+    }
+  ]
+}
